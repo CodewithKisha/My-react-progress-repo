@@ -67,6 +67,7 @@ Day 16/100: So today I created the same counter with vanilla javascript all by m
 
 
 Day 17/100: Today I took out my time to learn lifecycle methods in react. Today, I learnt the following;
+
             1. Through lifecycle method we can control what happens when each tiny section of our Ui updates, renders, 
                thinks about re-rendering and then disappears entirely.
 
@@ -79,8 +80,7 @@ Day 17/100: Today I took out my time to learn lifecycle methods in react. Today,
 
                 c. componentWillRecieveProps - deprecated
 
-
-                        d.shouldComponentUpdate
+                d.shouldComponentUpdate
 
                 e. componentWillUpdate - deprecated
 
