@@ -113,3 +113,5 @@ Day 21/100: Happy to announce that I just finished my react weather app!, I code
 Day 22/100: I finished up my vanilla javascript weather app, and went through states in react again. Repitition is key.
 
 Day 23/100: Didn't update yesterday, but I learn't how to create forms in react yesterday. Today I learn't how to create a nav bar in react, can't wait for the day i'll a create a full responsive website from scratch.
+
+Day 24/100: I didn't do much today.
