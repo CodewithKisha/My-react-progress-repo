@@ -115,3 +115,5 @@ Day 22/100: I finished up my vanilla javascript weather app, and went through st
 Day 23/100: Didn't update yesterday, but I learn't how to create forms in react yesterday. Today I learn't how to create a nav bar in react, can't wait for the day i'll a create a full responsive website from scratch.
 
 Day 24/100: I didn't do much today.
+
+Day 25/100: I continued with my react tutorial and I finished my react tutorial course today.
