@@ -119,3 +119,5 @@ Day 24/100: I didn't do much today.
 Day 25/100: I continued with my react tutorial and I finished my react tutorial course today.
 
 Day 26/100: I didn't do much today again. I'm actually not proud of it but we didn't have light all through today.
+
+Day 27/100: I started making research on my next article on hashnode. This time around, I'll be writing on react.
