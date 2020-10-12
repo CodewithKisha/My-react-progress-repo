@@ -121,3 +121,5 @@ Day 25/100: I continued with my react tutorial and I finished my react tutorial 
 Day 26/100: I didn't do much today again. I'm actually not proud of it but we didn't have light all through today.
 
 Day 27/100: I started making research on my next article on hashnode. This time around, I'll be writing on react. Still writing my article and I must confess, I've learnt alot. I also created a simple city tour website or should I call it an app..lol. Meanwhile my challenge is going as planned, definitely slow but steady.
+
+Day 28/100: I joined a react learning group today.
