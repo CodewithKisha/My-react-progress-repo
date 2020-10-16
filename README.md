@@ -123,3 +123,5 @@ Day 26/100: I didn't do much today again. I'm actually not proud of it but we di
 Day 27/100: I started making research on my next article on hashnode. This time around, I'll be writing on react. Still writing my article and I must confess, I've learnt alot. I also created a simple city tour website or should I call it an app..lol. Meanwhile my challenge is going as planned, definitely slow but steady.
 
 Day 28/100: I joined a react learning group today.
+
+Day 29/30: Things in Nigeria haven't been easy concerning police brutality, and I must confess it's really sad honestly. I'm seriously loosing concentration but it will be fine and worth it at the end.
