@@ -126,4 +126,4 @@ Day 28/100: I joined a react learning group today.
 
 Day 29/100: Things in Nigeria haven't been easy concerning police brutality, and I must confess it's really sad honestly. I'm seriously loosing concentration but it will be fine and worth it at the end.
 
-Day 30/100
+Day 30/100:
