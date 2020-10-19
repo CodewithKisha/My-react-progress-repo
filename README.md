@@ -8,7 +8,7 @@ Day 1/100: I learnt what react and components is all about. It is a library crea
 Day 2/100: Today I set up my react environmenet, I installed node and three visual studio code extensions 
            (simple react snippets, react snippet, and prettier-code formatter). I ran into an error while setting up
            my react environment but I was able to fix it up myself - all thanks to google..lol...I also started creating 
-           my first react app. Learn't about JSX(javascript extension).
+           my first react app. Learn't about JSX (javascript extension).
 
 
 Day 3/100: Today I learn't about ReactDOM, jsx, functional component, parent-child components. In react a component 
